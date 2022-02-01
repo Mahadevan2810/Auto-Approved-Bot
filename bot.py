@@ -18,7 +18,7 @@ async def start(client: pr0fess0r_99, message: Message):
     approvedbot = await client.get_me() 
     button=[[
       InlineKeyboardButton("📦 Repo", url="https://github.com/PR0FESS0R-99/Auto-Approved-Bot"),
-      InlineKeyboardButton("Updates 📢", url="t.me/Mo_Tech_YT")
+      InlineKeyboardButton("❤️Join Group❤️", url="t.me/mmf_chat")
       ],[
       InlineKeyboardButton("➕️ Add Me To Your Chat ➕️", url=f"http://t.me/{approvedbot.username}?startgroup=botstart")
       ]]
